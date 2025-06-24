@@ -1,0 +1,113 @@
+.div2{
+    background-color: rgb(203, 224, 212);
+    display: flex;
+    float: right;
+    padding: 0px;
+    margin: 0px;
+    margin-top:-250px;
+    padding: 20px;
+    justify-content:space-between;
+    height: 200px;
+    width: 600px;
+}
+.about{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: rgba(32, 129, 214, 0.227);
+    color:black;
+}
+button{
+justify-content: center;
+padding-right: 75px;
+padding-left:80px;
+margin: 10px;
+margin-left: 205px;
+color: rgb(0, 0, 0);
+background-color: rgb(29, 176, 34);
+}
+.product-de{
+    background-color: chocolate;
+    padding-left:20px;
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+.product-det{
+    background-color: chocolate;
+    margin-left:500px;
+    margin-top: -450px;
+}
+.Contact{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(239, 241, 244);
+    border: 2px solid rgb(4, 18, 31);
+    float: left;
+    margin-left: 100px;
+}
+.Contact1{
+    display: flex;
+    padding: 19px;
+    margin: 10px;
+    background-color: rgb(230, 239, 247);
+    border: 2px solid rgb(1, 13, 1);
+    float: left;
+    margin-left: 50px;
+}
+.Contact2{
+    display: flex;
+    padding: 17px;
+    margin: 15px;
+    background-color: rgb(219, 223, 226);
+    border: 2px solid rgb(1, 7, 1);
+    float: right;
+    margin-right: 0px;
+}
+.TOOL{
+    display: flex;
+    justify-content: space-around;
+    margin: 25px;
+    padding: 5px;
+}
+.pro{
+    padding: 10px;
+    margin:20px;
+}
+.form{
+    padding: 10px;
+    margin: 40px;
+    border: 2px solid rgb(14, 17, 14);
+    margin-top: 200px;
+}
+.search{
+background-color: rgb(182, 155, 205);
+padding: 10px;
+margin: 10px;
+}
+.imges{
+    padding: 10px;
+    margin: 30px;
+ border: 2px solid black;
+}
+.buil1{
+    border: 2px solid black;
+}
+.pay{
+    margin: 25px;
+    padding: 10px;
+    border: 2px solid rgb(14, 17, 14);
+}
+.add{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(178, 75, 75);
+    background-color: rgb(55, 103, 115);
+    color: rgb(0, 0, 0);
+    
+}
+.out{
+    margin: 10px;
+    padding: 10px;
+}
